@@ -2,3 +2,5 @@
 Debug/
 Release/
 .vs/
+win32/bin/freeglut.dll
+win32/bin/OpenSteerDemo_d.exe
